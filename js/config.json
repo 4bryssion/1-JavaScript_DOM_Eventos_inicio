@@ -11,5 +11,6 @@
     "_comment10": "js/10-keys-locked.js",
     "_comment11": "js/11-block-numbers.js",
     "_comment12": "js/12-allow-numbers-and-block-letters.js",
-    "script": "js/13-field-events.js"
+    "_comment13": "js/13-field-events.js",
+    "script": "js/14-form-data-api.js"
 }

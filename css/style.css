@@ -249,13 +249,21 @@ Si el navegador la carga correctamente, significa que soporta WebP. */
 
 /** Contacto **/
 
-/* .error {
+.showError {
     background-color: rgb(185, 0, 0);
     text-align: center;
     padding: 1rem;
     color: var(--blanco);
     text-transform: uppercase;
-} */
+}
+
+.showCorrect {
+    background-color: rgb(0, 185, 0);
+    text-align: center;
+    padding: 1rem;
+    color: var(--blanco);
+    text-transform: uppercase;
+}
  
 .correcto {
     background-color: rgb(74, 185, 0);
@@ -294,3 +302,8 @@ Si el navegador la carga correctamente, significa que soporta WebP. */
     height: 20rem;
 }
 
+.result {
+    color: red;
+    padding: 24px;
+    border: solid;
+}
