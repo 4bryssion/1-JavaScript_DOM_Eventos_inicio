@@ -9,7 +9,7 @@
     "_comment8": "js/08-bloquear-tecla-enter.js",
     "_comment9": "js/09-bloqueo-teclas.js",
     "_comment10": "js/10-keys-locked.js",
-    "script": "js/11-block-numbers.js",
+    "_comment11": "js/11-block-numbers.js",
     "_comment12": "js/12-allow-numbers-and-block-letters.js",
-    "_comment13": "js/13-field-events.js"
+    "script": "js/13-field-events.js"
 }

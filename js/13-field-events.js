@@ -3,7 +3,6 @@ const userPhone = document.querySelector(".campo__field--user-phone");
 const userEmail = document.querySelector(".campo__field--user-email");
 const userMessage = document.querySelector(".campo__field--user-message");
 
-
 // userName.addEventListener("input", (e) => {
 //     console.log(e.target.value);
 // })
